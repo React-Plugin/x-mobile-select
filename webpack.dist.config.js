@@ -17,8 +17,8 @@ var reactDOMExternal = {
 module.exports = {
 
   entry: {
-    'x-seed': './lib/index.js',
-    'x-seed.min': './lib/index.js'
+    'x-mobile-select': './lib/index.js',
+    'x-mobile-select.min': './lib/index.js'
   },
 
   externals: {
